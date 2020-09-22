@@ -7,7 +7,7 @@ export default class Hello extends Component {
     return (
       <div className="myName">
         <img src={myImg} className="myImg" />
-        <h1>HELLOE,</h1>
+        <h1>HELLO,</h1>
         <h2>MY NAME IS KAMIL 24YO AND THIS IS MY RESUME/CV</h2>
       </div>
     );
